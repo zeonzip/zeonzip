@@ -3,7 +3,6 @@
 ### I'm zeon!
 
 - 👨🏻‍💻 Hobbyist Developer
-- 🙌 13 years old
 - 🇳🇴 Norwegian
 
 ![](https://komarev.com/ghpvc/?username=zeonzip)
